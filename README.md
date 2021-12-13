@@ -1,5 +1,5 @@
 # Linux
 
-- [Kali](/Linux/kali.md)
-- [NetHunter](/Linux/nethunter.md)
-- [Raspberry](/Linux/raspberry.md)
+- [Kali](kali.md)
+- [NetHunter](nethunter.md)
+- [Raspberry](raspberry.md)
