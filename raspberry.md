@@ -1,7 +1,7 @@
 # Raspberry Pi 4
 
 ## Downlaod & Install
-Donwlaod zip file and transfere it to SD Card with 'Etcher'
+   - Donwlaod zip file and transfere it to SD Card with 'Etcher'
 
 ## VNC 
    - ```apt install tightvncserver```
